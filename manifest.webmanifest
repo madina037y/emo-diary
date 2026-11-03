@@ -1,0 +1,12 @@
+{
+  "name": "Дневник эмоций",
+  "short_name": "Эмоции",
+  "description": "Зафиксируйте эмоцию за несколько секунд — ассистент поможет увидеть её корень.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#5856D6",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
