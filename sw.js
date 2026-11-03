@@ -1,5 +1,5 @@
 // Простой офлайн-кэш оболочки приложения. Запросы к API не кэшируются.
-const CACHE = 'emo-v1';
+const CACHE = 'emo-v2';
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'icon.svg'];
 
 self.addEventListener('install', (e) => {
